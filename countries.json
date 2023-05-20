@@ -116,7 +116,7 @@
   {"name": "Kiribati", "country2": "KI"}, 
   {"name": "Korea, Democratic People\"S Republic of", "country2": "KP"}, 
   {"name": "Korea, Republic of", "country2": "KR"}, 
-  {"name": "Kosovo", "country2":"XK", "tag":["#Europe"]}
+  {"name": "Kosovo", "country2":"XK", "tag":["#Europe"]},
   {"name": "Kuwait", "country2": "KW"}, 
   {"name": "Kyrgyzstan", "country2": "KG"}, 
   {"name": "Lao People\"S Democratic Republic", "country2": "LA"}, 
@@ -206,7 +206,7 @@
   {"name": "Spain", "country2": "ES", "tag":["#Europe"]}, 
   {"name": "Sri Lanka", "country2": "LK"}, 
   {"name": "Sudan", "country2": "SD"}, 
-  {"name": "Suri"name"", "country2": "SR"}, 
+  {"name": "Suriname", "country2": "SR"}, 
   {"name": "Svalbard and Jan Mayen", "country2": "SJ"}, 
   {"name": "Swaziland", "country2": "SZ"}, 
   {"name": "Sweden", "country2": "SE", "tag":["#Europe"]}, 
